@@ -224,6 +224,7 @@
 * [Tizen](#tizen)
 * [TLA](#tla)
 * [TypeScript](#typescript)
+  * [Deno](#deno)
 * [Unix](#unix)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
@@ -2206,6 +2207,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
+* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML) (3.7)
 * [Cracking Codes with Python](http://inventwithpython.com/cracking/) - Al Sweigart
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
@@ -2660,6 +2662,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
+
+
+### Deno
+
+* [Deno Manual](https://deno.land/manual)
+* [FlavioCopes Deno Handbook](https://flaviocopes.com/deno) - *free PDF with registration*
 
 
 ### Unix
