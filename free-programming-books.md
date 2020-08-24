@@ -1,4 +1,4 @@
-### Index
+﻿### Index
 
 * [ABAP](#abap)
 * [Ada](#ada)
@@ -306,7 +306,7 @@
 
 #### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
+* [A Field Guide To Genetic Programming](https://b-ok.cc/book/861921/18f698) - Riccardo Poli et al. (PDF)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
@@ -1638,6 +1638,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS Notes for Professionals](https://books.goalkicker.com/AngularJSBook) (PDF)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
