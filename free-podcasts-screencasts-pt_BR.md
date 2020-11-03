@@ -5,6 +5,7 @@
 * [Databases](#databases)
 * [DataScience](#datascience)
 * [Game development](#game-development)
+* [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [iOS](#ios)
 * [Java](#java)
@@ -18,6 +19,7 @@
 ### Algoritmos
 
 * [Curso em Vídeo - Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) (screencast)
+* [Portugol Studio](https://www.youtube.com/playlist?list=PLJ4lbwalqv3Eaiay2pCeU_QU6vb-Hz989) (screencast)
 
 
 ### Angular
@@ -48,6 +50,11 @@
 ### Go
 
 * [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+
+
+### Haskell
+
+* [Curso Haskell para Iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z) (screencast)
 
 
 ### HTML / CSS
