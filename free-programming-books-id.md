@@ -28,6 +28,7 @@
 
 ### <a id="cplusplus"></a> C++
 
+* [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Koding C++ Dengan Qt](https://leanpub.com/koding-cpp-qt) *(Membutuhkan akun Leanpub atau email yang valid)*
 
 
@@ -70,6 +71,7 @@
 
 ### Java
 
+* [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 

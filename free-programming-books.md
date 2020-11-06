@@ -491,6 +491,7 @@
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+* [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 * [Introduction to CNTK Succinctly](https://www.syncfusion.com/ebooks/cntk_succinctly) - James McCaffrey
@@ -665,6 +666,7 @@
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Small Memory Software](http://www.smallmemory.com/book.html)
+* [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
 
@@ -1405,6 +1407,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
+* [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 * [How to Collaborate on Github](https://github.com/eonist/How-to-collaborate-on-github) - André J
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
@@ -2113,7 +2116,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Nim
 
-* [Nim Basics](https://narimiran.github.io/nim-basics/)
+* [Nim Basics](https://narimiran.github.io/nim-basics) - narimiran
+* [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
+* [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
 
 
 ### NoSQL
