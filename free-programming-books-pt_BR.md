@@ -132,6 +132,7 @@
 
 ### GO
 
+* [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
 
 
@@ -146,6 +147,7 @@
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
+* [Websites Atendendo a Requisitos de Acessibilidade e Usabilidade](https://leanpub.com/warau) - Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas, Vagner Figueredo de Santana (PDF) *(Leanpub account or valid email requested)*
 
 
 ### Java
@@ -231,6 +233,7 @@
 
 #### Node.js
 
+* [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
 * [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
 * [Node.js para Leigos](http://udgwebdev.com/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
