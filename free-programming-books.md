@@ -72,6 +72,7 @@
   * [Bootstrap](#bootstrap)
   * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
 * [HTTP](#http)
+* [HTTPS](#https)
 * [Icon](#icon)
 * [Idris](#idris)
 * [iOS](#ios)
@@ -696,8 +697,10 @@
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson and Bruce Davie (HTML, epub, mobi, PDF)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
+* [How HTTPS Works](https://howhttps.works) - DNSimple
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
+* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 * [IPv6 for IPv4 Experts](https://sites.google.com/site/yartikhiy/home/ipv6book) - Yar Tikhiy (PDF)
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
 * [Network Science](http://networksciencebook.com) - Albert-Laszló Barabási
@@ -1562,11 +1565,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw
 
 
-#### HTTP
-
-* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
-
-
 ### Idris
 
 * [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
@@ -1633,7 +1631,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli and R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al
 * [Java Notes for Professionals](http://goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (PDF)
-* [Java Programming](https://en.wikibooks.org/wiki/Java_Programming/) - Wikibooks
+* [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 * [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
