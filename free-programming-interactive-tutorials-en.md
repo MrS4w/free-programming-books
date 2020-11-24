@@ -184,6 +184,7 @@
 #### Angular.js
 
 * [Angular Basics](http://www.angularjsbook.com)
+* [Angular Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
@@ -209,6 +210,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 

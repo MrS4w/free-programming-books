@@ -138,6 +138,7 @@
 
 ### JavaScript
 
+* [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Programmer Zaman Now
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Programmer Zaman Now
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
@@ -233,8 +234,10 @@
 
 ### Laravel
 
+* [Belajar CRUD Laravel 8 + Livewire](https://www.youtube.com/playlist?list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4) - Kawan Koding
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
 * [Belajar Laravel Pemula](https://www.youtube.com/playlist?list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn) - Wahidev Academy
+* [Fitur Baru Laravel 8](https://www.youtube.com/playlist?list=PLEgI20pG1DqyTqCPiHnuWrBZtVFs5z95p) - Kawan Koding
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
 * [Membuat Tabel Post Tampilan](https://youtu.be/sYTin40_Ukw) - Kawan Koding
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
